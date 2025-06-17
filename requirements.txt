@@ -7,4 +7,6 @@ langchain-core==0.1.23
 langchain-experimental==0.0.49
 langchain-openai==0.0.5
 pandas==2.2.2
-langchain-google-genai
+langchain-google-genai==1.0.1
+python-dotenv==1.1.0
+ipywidgets==8.1.7
